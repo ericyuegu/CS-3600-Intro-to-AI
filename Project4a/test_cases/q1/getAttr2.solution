@@ -1,0 +1,2 @@
+correct=result=={'high': {}, 'med': {}, 'vhigh': {'acc': 16, 'unacc': 45}, 'low': {'acc': 4, 'unacc': 22, 'good': 12, 'vgood': 8}};
+{'high': {}, 'med': {}, 'vhigh': {'acc': 16, 'unacc': 45}, 'low': {'acc': 4, 'unacc': 22, 'good': 12, 'vgood': 8}}

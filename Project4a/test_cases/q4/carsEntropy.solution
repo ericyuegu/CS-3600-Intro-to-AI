@@ -1,0 +1,67 @@
+correct=str(result)=="""safety = high
+|---persons = 2
+|---|---unacc
+|---persons = 4
+|---|---acc
+|---persons = more
+|---|---acc
+safety = med
+|---persons = 2
+|---|---unacc
+|---persons = 4
+|---|---lug_boot = small
+|---|---|---unacc
+|---|---lug_boot = med
+|---|---|---doors = 5more
+|---|---|---|---acc
+|---|---|---doors = 3
+|---|---|---|---unacc
+|---|---|---doors = 2
+|---|---|---|---acc
+|---|---|---doors = 4
+|---|---|---|---acc
+|---|---lug_boot = big
+|---|---|---acc
+|---persons = more
+|---|---lug_boot = small
+|---|---|---unacc
+|---|---lug_boot = med
+|---|---|---acc
+|---|---lug_boot = big
+|---|---|---acc
+safety = low
+|---unacc
+""";
+safety = high
+|---persons = 2
+|---|---unacc
+|---persons = 4
+|---|---acc
+|---persons = more
+|---|---acc
+safety = med
+|---persons = 2
+|---|---unacc
+|---persons = 4
+|---|---lug_boot = small
+|---|---|---unacc
+|---|---lug_boot = med
+|---|---|---doors = 5more
+|---|---|---|---acc
+|---|---|---doors = 3
+|---|---|---|---unacc
+|---|---|---doors = 2
+|---|---|---|---acc
+|---|---|---doors = 4
+|---|---|---|---acc
+|---|---lug_boot = big
+|---|---|---acc
+|---persons = more
+|---|---lug_boot = small
+|---|---|---unacc
+|---|---lug_boot = med
+|---|---|---acc
+|---|---lug_boot = big
+|---|---|---acc
+safety = low
+|---unacc

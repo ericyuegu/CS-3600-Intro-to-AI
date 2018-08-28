@@ -1,0 +1,23 @@
+correct=str(result)=="""safety = high
+|---persons = 2
+|---|---unacc
+|---persons = 4
+|---|---acc
+|---persons = more
+|---|---acc
+safety = med
+|---unacc
+safety = low
+|---unacc
+""";
+safety = high
+|---persons = 2
+|---|---unacc
+|---persons = 4
+|---|---acc
+|---persons = more
+|---|---acc
+safety = med
+|---unacc
+safety = low
+|---unacc

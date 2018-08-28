@@ -1,0 +1,2 @@
+correct=sameList(result,['unacc', 'unacc', 'unacc', 'unacc', 'unacc', 'acc', 'unacc', 'acc', 'acc', 'unacc', 'acc', 'acc'],0.000010);
+['unacc', 'unacc', 'unacc', 'unacc', 'unacc', 'acc', 'unacc', 'acc', 'acc', 'unacc', 'acc', 'acc']

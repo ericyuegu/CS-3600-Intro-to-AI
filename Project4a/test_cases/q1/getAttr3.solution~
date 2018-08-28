@@ -1,0 +1,2 @@
+correct=result=="""{'x': {'win': 5, 'loss': 2}, 'b': {'win': 412, 'draw': 15, 'loss': 59}, 'o': {'loss': 3, 'win': 7}}""";
+{'x': {'win': 5, 'loss': 2}, 'b': {'win': 412, 'draw': 15, 'loss': 59}, 'o': {'loss': 3, 'win': 7}}
